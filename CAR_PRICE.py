@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# 
+ 
 # #### #Task 3 - CAR PRICE PREDICTION WITH MACHINE LEARNING
 # #### Problem Statement:
 # * Analyse how various factors like features of the car, horsepower, mileage etc affect the price of the car 
